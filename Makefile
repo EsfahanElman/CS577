@@ -1,5 +1,5 @@
 build:
-	javac helloWorld.java
+	javac depthFS.java
 
 run:
-	java helloWorld
+	java depthFS
