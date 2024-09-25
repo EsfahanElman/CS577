@@ -1,5 +1,5 @@
 build:
-	javac depthFS.java
+	javac intervalScheduling.java
 
 run:
-	java depthFS
+	java intervalScheduling
