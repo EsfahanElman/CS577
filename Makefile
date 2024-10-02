@@ -1,5 +1,5 @@
 build:
-	javac FurthestInFuturePaging.java
+	javac ff.java
 
 run:
-	java FurthestInFuturePaging
+	java ff
