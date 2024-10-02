@@ -1,5 +1,5 @@
 build:
-	javac intervalScheduling.java
+	javac FurthestInFuturePaging.java
 
 run:
-	java intervalScheduling
+	java FurthestInFuturePaging
