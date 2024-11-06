@@ -1,5 +1,5 @@
 build:
-	javac ff.java
+	javac flowFF.java
 
 run:
-	java ff
+	java flowFF
